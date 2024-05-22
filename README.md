@@ -1,4 +1,4 @@
-# Aprendizaje-por-refuerzo
+# Aprendizaje por refuerzo
 El aprendizaje por refuerzo es una técnica en la cual un agente aprende a tomar decisiones en un entorno para maximizar una recompensa acumulada. Mediante la exploración y la explotación de diferentes acciones, el agente recibe retroalimentación en forma de recompensas o penalizaciones. 
 ## Aprendizaje por Refuerzo con Q-Learning
 Este proyecto implementa un algoritmo simple de Q-Learning en un entorno de rejilla para aprender las acciones óptimas para que un agente maximice sus recompensas. El entorno es una rejilla de 7x7 donde el agente puede moverse hacia arriba, abajo, izquierda o derecha, con estados específicos que proporcionan recompensas o penalizaciones especiales.
